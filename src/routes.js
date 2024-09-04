@@ -6,7 +6,7 @@ import Post from "paginas/Post";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Menu from "./componentes/Menu";
 import Inicio from './paginas/Inicio';
-import SobreMim from './paginas/SobreMim';
+import SobreMim from './paginas/SobreNos';
 
 function AppRoutes() {
   return (

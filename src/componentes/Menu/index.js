@@ -9,7 +9,7 @@ export default function Menu() {
                     Início
                 </MenuLink>
                 <MenuLink to="/sobremim">
-                    Sobre Mim
+                    Sobre nós
                 </MenuLink>
             </nav>
         </header>

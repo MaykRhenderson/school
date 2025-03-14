@@ -16,22 +16,6 @@
   font-family: var(--fonte-principal);
 }
 
-::-webkit-scrollbar {
-  width: 15px;
-  background-color: var(--color-primary);
-}
-
-::-webkit-scrollbar-thumb {
-  background-color: #041833;
-  border-radius: 6px;
-}
-
-::-webkit-scrollbar-track {
-  background-color: var(--color-primary);
-  border-radius: 6px;
-}
-
-
 #root {
   display: grid;
   grid-template-rows: auto 1fr auto;

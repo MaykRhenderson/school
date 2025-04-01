@@ -4,7 +4,7 @@ export default function Banner() {
 	return (
 		<div className={styles.banner}>
 			<div className={styles.apresentacao}>
-				<h1 className={styles.titulo}>Olá, Mundo!</h1>
+				<h1 className={styles.titulo}>Bem-vindo(a) a School</h1>
 
 				<p className={styles.paragrafo}>
 					A School é um espaço dedicado ao aprendizado e desenvolvimento de
